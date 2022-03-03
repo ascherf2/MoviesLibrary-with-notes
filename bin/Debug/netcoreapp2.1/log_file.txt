@@ -1,0 +1,7 @@
+2022-02-25 20:16:45.4839|INFO|NewProgram.Program|Program started
+2022-02-25 20:16:45.5332|INFO|NewProgram.Program|Program ended
+2022-02-25 20:19:43.6092|INFO|NewProgram.Program|Program started
+2022-02-25 20:19:53.2765|INFO|NewProgram.Program|Program ended
+2022-02-25 20:20:39.9689|INFO|NewProgram.Program|Program started
+2022-02-25 20:22:02.2456|INFO|NewProgram.Program|Program started
+2022-02-25 20:22:04.6888|INFO|NewProgram.Program|Program ended

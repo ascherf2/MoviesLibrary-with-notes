@@ -1,0 +1,11 @@
+C:\Users\jradi\Desktop\School repos\NewProgram\obj\Debug\netcoreapp2.1\NewProgram.csprojAssemblyReference.cache
+C:\Users\jradi\Desktop\School repos\NewProgram\obj\Debug\netcoreapp2.1\NewProgram.csproj.CoreCompileInputs.cache
+C:\Users\jradi\Desktop\School repos\NewProgram\obj\Debug\netcoreapp2.1\NewProgram.AssemblyInfoInputs.cache
+C:\Users\jradi\Desktop\School repos\NewProgram\obj\Debug\netcoreapp2.1\NewProgram.AssemblyInfo.cs
+C:\Users\jradi\Desktop\School repos\NewProgram\bin\Debug\netcoreapp2.1\NewProgram.deps.json
+C:\Users\jradi\Desktop\School repos\NewProgram\bin\Debug\netcoreapp2.1\NewProgram.runtimeconfig.json
+C:\Users\jradi\Desktop\School repos\NewProgram\bin\Debug\netcoreapp2.1\NewProgram.runtimeconfig.dev.json
+C:\Users\jradi\Desktop\School repos\NewProgram\bin\Debug\netcoreapp2.1\NewProgram.dll
+C:\Users\jradi\Desktop\School repos\NewProgram\bin\Debug\netcoreapp2.1\NewProgram.pdb
+C:\Users\jradi\Desktop\School repos\NewProgram\obj\Debug\netcoreapp2.1\NewProgram.dll
+C:\Users\jradi\Desktop\School repos\NewProgram\obj\Debug\netcoreapp2.1\NewProgram.pdb
