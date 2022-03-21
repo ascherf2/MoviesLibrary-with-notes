@@ -9,3 +9,5 @@ C:\Users\jradi\Desktop\School repos\NewProgram\bin\Debug\netcoreapp2.1\NewProgra
 C:\Users\jradi\Desktop\School repos\NewProgram\bin\Debug\netcoreapp2.1\NewProgram.pdb
 C:\Users\jradi\Desktop\School repos\NewProgram\obj\Debug\netcoreapp2.1\NewProgram.dll
 C:\Users\jradi\Desktop\School repos\NewProgram\obj\Debug\netcoreapp2.1\NewProgram.pdb
+C:\Users\allie\Source\Repos\MoviesLibrary-with-notes\obj\Debug\netcoreapp2.1\NewProgram.dll
+C:\Users\allie\Source\Repos\MoviesLibrary-with-notes\obj\Debug\netcoreapp2.1\NewProgram.pdb
