@@ -5,3 +5,24 @@
 2022-02-25 20:20:39.9689|INFO|NewProgram.Program|Program started
 2022-02-25 20:22:02.2456|INFO|NewProgram.Program|Program started
 2022-02-25 20:22:04.6888|INFO|NewProgram.Program|Program ended
+2022-03-04 17:00:39.0673|INFO|NewProgram.Program|Program started
+2022-03-04 17:37:29.6745|INFO|NewProgram.Program|Program ended
+2022-03-04 17:37:36.1504|INFO|NewProgram.Program|Program started
+2022-03-04 17:37:42.5962|INFO|NewProgram.Program|Program ended
+2022-03-04 17:38:56.0834|INFO|NewProgram.Program|Program started
+2022-03-04 17:40:04.4900|INFO|NewProgram.Program|Program ended
+2022-03-04 17:40:12.8110|INFO|NewProgram.Program|Program started
+2022-03-04 17:45:38.0323|INFO|NewProgram.Program|Program ended
+2022-03-04 17:46:26.3264|INFO|NewProgram.Program|Program started
+2022-03-04 17:49:08.7323|INFO|NewProgram.Program|Program started
+2022-03-04 17:50:34.9592|INFO|NewProgram.Program|Program started
+2022-03-04 17:55:02.7747|INFO|NewProgram.Program|Program started
+2022-03-04 17:55:30.3975|INFO|NewProgram.Program|Program ended
+2022-03-04 18:54:12.6794|INFO|NewProgram.Program|Program started
+2022-03-04 18:54:46.1943|INFO|NewProgram.Program|Duplicate entry for Movie Title
+2022-03-04 18:56:35.6060|INFO|NewProgram.Program|Program ended
+2022-03-04 19:08:48.2056|INFO|NewProgram.Program|Program started
+2022-03-04 19:09:19.5351|INFO|NewProgram.Program|Program ended
+2022-03-04 19:09:57.5311|INFO|NewProgram.Program|Program started
+2022-03-04 19:09:57.5735|ERROR|NewProgram.Program|File not found exception
+2022-03-04 19:10:10.7954|INFO|NewProgram.Program|Program ended
