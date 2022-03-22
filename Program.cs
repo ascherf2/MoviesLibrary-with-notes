@@ -42,28 +42,6 @@ namespace NewProgram
                 logger.Error(e.Message);
             }
             
-
-            //Practicing with String.Split()
-            string fruits = "banana,apple,pear";
-            //Splits the "fruits" string up by ',' and puts it in an Array of strings. "threeFruits" holds "banana" "apple" and "pear"
-            string[] threeFruits = fruits.Split(',');
-
-            //Prints "banana,apple,pear"
-            System.Console.WriteLine(fruits);
-
-            //For each string in threeFruits...
-            foreach (string fruit in threeFruits) {
-                //...print the string
-                System.Console.WriteLine(fruit);
-                //Prints out "banana"
-                //"apple"
-                //"pear"
-            }
-
-            //threeFruits.Length returns an int of how many strings are in threeFruits. threeFruits contains "banana" "apple" and "pear" so it returns 3
-            System.Console.WriteLine(threeFruits.Length);
-            
-            
             string resp;
             //A do/while loop runs the block of code at least once, and is used when we don't know how many times it will run
             //A while loop acts like an "if" statement, and is used when we don't know how many times it will run. It may not run at all.
@@ -103,13 +81,13 @@ namespace NewProgram
                             //String.IndexOf() returns the index of the first character we passed in
                             //In 164983,"Is a movie title, This",Horror|Tragedy, .IndexOf('"') returns 7
                             //In that case index = 7
-                            int index = movie.IndexOf('"');
+                            int movieindex = movie.IndexOf('"');
 
                             //String.Substring(index) returns everything at and after the index we give it
                             //"164983,"Is a movie title, This",Horror|Tragedy".Substring(index) returns "Is a movie title, This",Horror|Tragedy
                             //We don't want the first ", so we use .Substring(index + 1) to get Is a movie title, This",Horror|Tragedy
                             //movieTitle now equals Is a movie title, This",Horror|Tragedy
-                            movieTitle = movie.Substring(index + 1);
+                            movieTitle = movie.Substring(movieindex + 1);
 
                             //Now we need to chop off the other " and everything after it
                             //We can find the " again by using .IndexOf('"')
